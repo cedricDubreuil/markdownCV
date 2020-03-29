@@ -2,13 +2,16 @@ Cédric Dubreuil
 ===============
 Product owner en transition vers l'analyse de data :)
 -----------------------------------------------------
+
+![Photo de profil](https://media-exp1.licdn.com/dms/image/C5603AQEBOgpgxAh2bQ/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=ee76VpqTU3x259T4EYuY5Td0Pih_Cm6TcNdVda-lO24)
+
 Bordeaux Area, France
 ####Résumé
 >Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des data recueillis par les divers projets auquels j'ai articipé, je m'engage dans une formation en analyse de data.
 C'est parti pour cinq mois intensifs au sein de la #wildCodeSchool de #Bordeaux !
 
 ### Languages
-Anglais
+Français - Anglais
 
 ### Links
 [Lien vers mon compte LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-dubreuil-37aa8a40/)
@@ -47,16 +50,16 @@ Bien entendu, mettre la main à la pâte pour les développements d'API, d'outil
 ##### Enseignant dessin / peinture
 septembre 2012 - janvier 2019 (6 ans 5 mois)
 Vayres
-##### Enseignant pour enfants & adultes du dessin et de la peinture.
+*Enseignant pour enfants & adultes du dessin et de la peinture*
 
-##### Developpeur Web
+*Developpeur Web*
 septembre 2012 - juin 2015 (2 ans 10 mois)
 Gironde
 Développement de site web pour associations culturelles, artistes, tpe & pme.
 Spécialiste Wordpress.
 
 ##### Illustrateur indépendant
-###### Illustrateur
+*Illustrateur*
 septembre 2014 - janvier 2018 (3 ans 5 mois)
 Vayres
 Illustration jeunesse, presse et web.
@@ -64,7 +67,7 @@ Illustration jeunesse, presse et web.
 ##### Artiste peintre
 septembre 2012 - janvier 2018 (5 ans 5 mois)
 
-Si le dessin a toujours fait partie de son univers intime, Cédric ne s’y adonnera que sporadiquement jusqu’en 2010 pour s’y consacrer entièrement à partir de 2012.
+>Si le dessin a toujours fait partie de son univers intime, Cédric ne s’y adonnera que sporadiquement jusqu’en 2010 pour s’y consacrer entièrement à partir de 2012.
 Son cheminement professionnel l’a naturellement conduit à, progressivement, se rapprocher des arts graphiques.
 Sa rencontre avec l’artiste Paul Schuss est une révélation artistique et humaine. L’honnêteté dans la réalisation, l’exigence ainsi que la liberté artistique défendues par Paul seront pour Cédric de sérieuses bases de travail.
 Autodidacte, il ressent le besoin de valider sa technique graphique auprès d’un artiste confirmé. Il suivra les cours de François Tilly ajoutant, dans la même période, à ses expériences, l’activité de modèle vivant qui lui offre un autre
@@ -76,42 +79,46 @@ Toutes ces raisons pour osciller entre poésie et noirceur.
 #### Diantre
 1 an 5 mois
 
-##### Formateur
+*Formateur*
 septembre 2015 - janvier 2017 (1 an 5 mois)
 Bordeaux, Gironde
 - Formation niv1 / niv2 Wordpress.
 - Formation HTML / CSS.
 - Formation référencement.
 
-##### Webmaster
+*Webmaster*
 septembre 2015 - janvier 2017 (1 an 5 mois)
 Gironde
 Conseil et conception de site web basé sur CMS wordpress.
 
 #### BiBx
 1 an
-##### Illustrateur / Intégrateur Web
+*Illustrateur / Intégrateur Web*
 2015 - novembre 2016 (1 an)
-##### Illustrateur / Intégrateur Web
+*Illustrateur / Intégrateur Web*
 2015 - 2015 (moins d’un an)
-##### chemin faisant revue participative Webmaster
+*chemin faisant revue participative Webmaster*
 février 2014 - 2016 (2 ans)
 Bouliac
 Lancement v 1, juin 2015
+
 #### Mairie de Vayres
-##### Intervenant Arts Plastiques
+*Intervenant Arts Plastiques*
 septembre 2014 - décembre 2015 (1 an 4 mois)
 Ecole primaire de Vayres
+
 #### Mairie de St Germain du Puch
-##### Intervenant Arts Plastiques
+*Intervenant Arts Plastiques*
 septembre 2014 - juin 2015 (10 mois)
 Saint Germain du Puch
+
 #### Ingesup Bordeaux
-##### Intervenant html / css / php
+*Intervenant html / css / php*
 septembre 2013 - juin 2014 (10 mois)
 Bordeaux
+
 #### BGPartners
-##### Webmaster (Dev & infographie )
+*Webmaster (Dev & infographie )*
 septembre 2008 - juillet 2012 (3 ans 11 mois)
 - Création graphique pour les sites BtoB / BtoC
 - Développement des sites web suivant environnement propre aux structure serveurs de BGPartners
