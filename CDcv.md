@@ -20,8 +20,7 @@ Français - Anglais
 [Instagram](https://www.instagram.com/cd.ill/)
 
 ### Formation
-Depuis le 02/03/2020, en formation Data Analyst
-5 mois de formation intensive
+>Depuis le 02/03/2020, en formation Data Analyst durant 5 mois de formation intensive
 
 
 ### Publications
