@@ -16,7 +16,9 @@ Français - Anglais
 
 ### Links
 [LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-dubreuil-37aa8a40/)
+
 [GitHub](https://github.com/cedricDubreuil)
+
 [Instagram](https://www.instagram.com/cd.ill/)
 
 ### Formation
