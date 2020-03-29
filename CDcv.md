@@ -8,7 +8,7 @@ Data analyst
 Bordeaux Area, France
 
 #### Résumé
->Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des data recueillis par les divers projets auquels j'ai articipé, je m'engage dans une formation en analyse de data.
+>Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des datas recueillis par les divers projets auxquels j'ai articipé, je m'engage dans une formation en analyse de data.
 C'est parti pour cinq mois intensifs au sein de la #wildCodeSchool de #Bordeaux !
 
 ### Languages
