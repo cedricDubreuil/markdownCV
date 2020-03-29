@@ -4,28 +4,38 @@ Product owner en transition vers l'analyse de data :)
 -----------------------------------------------------
 Bordeaux Area, France
 ####Résumé
-Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des data recueillis par les divers projets auquels j'ai articipé, je m'engage dans une formation en analyse de data.
+>Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des data recueillis par les divers projets auquels j'ai articipé, je m'engage dans une formation en analyse de data.
 C'est parti pour cinq mois intensifs au sein de la #wildCodeSchool de #Bordeaux !
 
 ### Languages
 Anglais
+
+### Links
+[Lien vers mon compte LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-dubreuil-37aa8a40/)
+
+[Un autre lien vers mon compte instagram](https://www.instagram.com/cd.ill/)
+
 
 ### Publications
 Chemin faisant
 
 ### Expérience
 #### Barmatic
-##### Product owner - B2B / B2C Solution
+*Product owner - B2B / B2C Solution*
+
 janvier 2016 - octobre 2019 (3 ans 10 mois)
 Cénac
+
 - Recueil et analyse du besoin métier.
 - Etude, rédaction et présentation des décisions structurelles & fonctionnelles de la solution.
 - Planification & Gestion de l'équipe technique.
 - Développement, maintenance & upgrade FO & BO de la solution de billetterie en ligne.
 - Documentation & déploiement de la solution.
 - Veille sur les innovations technologiques et sectorielles.
+- Développement d'API propriétaires.
+- Développement Php
 
-L'essentiel de mon activité est bien plus proche de l'humain que ce que l'on peut penser.
+>L'essentiel de mon activité est bien plus proche de l'humain que ce que l'on peut penser.
 Je me considère comme un interprète entre deux mondes qui n'ont absolument pas le même point de vue ni le même vocabulaire. Dirigeants et développeurs ont pourtant une volonté identique, celle de l'aboutissement heureux du projet dans lequel toute l'équipe est engagée.
 Ma tâche consiste à entendre les impératifs des uns et des autres afin de sélectionner et coordonner les ressources disponibles par l'utilisation de méthodes agiles et la clarification des attentes.
 Bien entendu, mettre la main à la pâte pour les développements d'API, d'outils d'analyse et de restitutions de fonctionnement des produits connectés ou la création des websites de nos clients reste l'occasion de rester en contact avec les contraintes et possibilités techniques.
