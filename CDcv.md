@@ -1,12 +1,13 @@
 Cédric Dubreuil
 ===============
-Product owner en transition vers l'analyse de data :)
------------------------------------------------------
+Data analyst
+------------
 
 ![Photo de profil](https://media-exp1.licdn.com/dms/image/C5603AQEBOgpgxAh2bQ/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=ee76VpqTU3x259T4EYuY5Td0Pih_Cm6TcNdVda-lO24)
 
 Bordeaux Area, France
-####Résumé
+
+#### Résumé
 >Cette année 2020 sera celle d'une nouvelle transition. Depuis toujours attiré par l'exploitation des data recueillis par les divers projets auquels j'ai articipé, je m'engage dans une formation en analyse de data.
 C'est parti pour cinq mois intensifs au sein de la #wildCodeSchool de #Bordeaux !
 
@@ -14,9 +15,13 @@ C'est parti pour cinq mois intensifs au sein de la #wildCodeSchool de #Bordeaux 
 Français - Anglais
 
 ### Links
-[Lien vers mon compte LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-dubreuil-37aa8a40/)
+[LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-dubreuil-37aa8a40/)
+[GitHub](https://github.com/cedricDubreuil)
+[Instagram](https://www.instagram.com/cd.ill/)
 
-[Un autre lien vers mon compte instagram](https://www.instagram.com/cd.ill/)
+### Formation
+Depuis le 02/03/2020, en formation Data Analyst
+5 mois de formation intensive
 
 
 ### Publications
